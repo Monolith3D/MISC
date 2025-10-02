@@ -14,7 +14,7 @@ The SLM part is not expensive, so it's an easy addition to any SLM order you wan
 
 
 The BOM is:
-- 1x PTC Heater 100W 98x32mm;
+- 1x [PTC Heater 100W 98x32mm](https://a.aliexpress.com/_EuRa9U2);
 - 2x 3628 fans;
 - 6x M3x35mm BHCS;
 - 2x M3x45mm BHCS;
