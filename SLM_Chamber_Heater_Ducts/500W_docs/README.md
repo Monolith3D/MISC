@@ -36,17 +36,17 @@
 
 ## Assembly
 
-![1](Images/500W_1.png)
+![1](/SLM_Chamber_Heater_Ducts/Images/500W_1.jpg)
 
-![2](Images/500W_2.png)
+![2](/SLM_Chamber_Heater_Ducts/Images/500W_2.jpg)
 
-![3](Images/500W_3.png)
+![3](/SLM_Chamber_Heater_Ducts/Images/500W_3.jpg)
 
-![4](Images/500W_4.png)
+![4](/SLM_Chamber_Heater_Ducts/Images/500W_4.jpg)
 
-![5](Images/500W_5.png)
+![5](/SLM_Chamber_Heater_Ducts/Images/500W_5.jpg)
 
-![6](Images/500W_6.png)
+![6](/SLM_Chamber_Heater_Ducts/Images/500W_6.jpg)
 
 > [!NOTE]
 > **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
