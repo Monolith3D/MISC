@@ -17,4 +17,4 @@ Simple SLM ducts with mounting solutions for the common 500W and 100W PTC heater
 >
 > **If you would like to see more of this and other projects in the future, consider supporting us on Ko-fi.**
 >
-> [![Join the Discord](https://github.com/CloakedWayne/MISC/blob/main/Common_repo_files/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
+> [![Join the Discord](https://github.com/CloakedWayne/MISC/blob/main/Common_repo_files/kofi_short_button_white.png)](https://ko-fi.com/monolith)
