@@ -4,24 +4,8 @@
 >
 > **Always monitor the chamber heater fin temperature with a cartridge or an M3 thermistor.**
 
-## Panel-mounted BOM
-- 1x 100W SLM duct
-- 1x PTC Heater 100W 98x32mm
-- 2x 3628 fans
-- 8x M3x35 BHCS
-- 8x M3x8 BHCS
-- 4x M3 washers
-- 4x M3x10 standoffs (F-F threaded)
-
-## Extrusion-mounted BOM
-- 1x 100W SLM duct
-- 1x PTC Heater 100W 98x32mm
-- 2x 3628 fans
-- 6x M3x35 BHCS
-- 2x M3x45 BHCS
-- 4x M3x8 BHCS
-- 4x M3 washers
-- 4x M3x10 spacers (not threaded)
+- [BOM](../BOM/)
+- [Trusted Vendors](../README.md#trusted-vendors)
 
 ## Assembly
 

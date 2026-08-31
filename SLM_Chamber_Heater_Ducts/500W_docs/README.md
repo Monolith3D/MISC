@@ -4,35 +4,8 @@
 >
 > **Always monitor the chamber heater fin temperature with a cartridge or an M3 thermistor.**
 
-## Panel-mounted BOM
-- 1x 500W SLM duct
-- 1x PTC Heater 500W 140x50mm
-- 2x 5032 fans
-- 20x M3x8 BHCS
-- 4x M3 washers
-- 4x M3x15 standoffs (F-F threaded)
-
-## Fixed gantry mount BOM
-- 1x 500W SLM duct
-- 1x 500W fixed gantry plate (Spicy meatball plates can be reused.)
-- 1x PTC Heater 500W 140x50mm
-- 2x 5032 fans
-- 4x M3x8 BHCS
-- 8x M3x40 BHCS
-- 4x M3 washers
-- 2x M5x10 BHCS
-- 2x M5 T-nut
-
-## FLying gantry mount BOM
-- 1x 500W SLM duct
-- 1x 500W flying gantry plate (Spicy meatball plates can be reused.)
-- 1x PTC Heater 500W 140x50mm
-- 2x 5032 fans
-- 4x M3x8 BHCS
-- 8x M3x40 BHCS
-- 4x M3 washers
-- 2x M5x10 BHCS
-- 2x M5 T-nut
+- [BOM](../BOM/)
+- [Trusted Vendors](../README.md#trusted-vendors)
 
 ## Assembly
 

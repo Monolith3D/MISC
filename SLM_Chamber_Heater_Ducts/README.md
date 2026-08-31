@@ -8,6 +8,13 @@
 
 Simple SLM ducts with mounting solutions for the common 500W and 100W PTC heaters.
 
+## Trusted Vendors
+
+Monolith receives 5% of all sales of these parts from the vendors below, helping fund continued development.
+
+- DK Supply: [100W ducts](https://diodekingsupply.com/products/100w-slm-chamber-heater-ducts-for-pfa) · [500W ducts and mounting-plate options](https://diodekingsupply.com/products/slm-chamber-heater-ducts-and-plate)
+- 3DKATTEN: [100W and 500W ducts and mounting plates](https://3dkatten.se/products/slm-chamber-heater-ducts)
+
 ![1](Images/Chamber_heaters.png)
 
 > [!NOTE]
