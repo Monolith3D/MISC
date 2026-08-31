@@ -1,6 +1,4 @@
 # Monolith Extrusion Door 
-> [!IMPORTANT]
-> **I haven't tested the latest version of the door handle yet.**
 
 ![1](Images/door.png)
 
@@ -11,8 +9,6 @@ Many of us have already switched to 4040 vertical extrusions and structural side
 
 On V2 if you have a custom X-beam and want to avoid cutting one of your vertical extrusions you can also reuse your stock X-extrusion with some additional hardware and printed parts.
 
-
-## BOM and more details SOON™!
 
 > [!NOTE]
 > **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
