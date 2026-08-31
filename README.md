@@ -16,5 +16,5 @@ Some projects are experiments, support parts, or one-off solutions. Use them wit
 | [SLM belt clamps for the Monolith belt path](Monolith_SLM_belt_clamps/) | Standalone SLM belt clamps for the Monolith belt path. |
 | [SLM Chamber Heater Ducts](SLM_Chamber_Heater_Ducts/) | SLM ducts and mounts for common chamber heaters. |
 | [Structural Side Panels V2-VT](Structural_Side_Panels_V2-VT/) | Structural side panel files for V2 and VT builds. |
-| [Wacky-Hack Fridge Door](Wacky_hack_door_V2-VT/) | A practical extrusion-door experiment for V2 and VT frames. |
+| [Monolith Extrusion Door](Monolith_Extrusion_Door/) | A practical extrusion-door experiment for V2 and VT frames. |
 | [WS7040 Anti-Vibration Mount](WS7040_Anti-Vibration_Mount/) | A quieter, vibration-isolated mount for the WS7040 blower. |
