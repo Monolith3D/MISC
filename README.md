@@ -13,7 +13,7 @@ Some projects are experiments, support parts, or one-off solutions. Use them wit
 | [Better CF tube mounting](CF_tube_mounting/) | A sturdier way to mount a CF X-axis tube. |
 | [Hollow MGN12 Rails](Hollow_MGN12_rails/) | CAD for experimenting with hollowed MGN12 rails. |
 | [Monolith logo](Monolith_logo/) | Monolith logo files for graphics, decals, and cutting. |
-| [SLM belt clamps for the Monolith belt path](Monolith_SLM_belt_clamps/) | Standalone SLM belt clamps for the Monolith belt path. |
+| [Monolith belt clamp](https://github.com/Monolith3D/Toolheads_for_Monolith/tree/main/Monolith_Belt_Clamp) | Milled and SLM belt clamps, maintained in Toolheads for Monolith. |
 | [SLM Chamber Heater Ducts](SLM_Chamber_Heater_Ducts/) | SLM ducts and mounts for common chamber heaters. |
 | [Structural Side Panels V2-VT](Structural_Side_Panels_V2-VT/) | Structural side panel files for V2 and VT builds. |
 | [Monolith Extrusion Door](Monolith_Extrusion_Door/) | A practical extrusion-door experiment for V2 and VT frames. |
