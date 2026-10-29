@@ -10,7 +10,7 @@ Some projects are experiments, support parts, or one-off solutions. Use them wit
 
 | Project | What it does |
 | --- | --- |
-| [Beacon Accelerometer Homing](Beacon_Accel_Homing/) | Experimental one-touch X/Y homing for Klipper and Kalico from the Beacon accelerometer. |
+| [Accelerometer Homing](https://github.com/FrankRamm/accel_homing) | Experimental accelerometer X/Y homing for Klipper and Kalico, maintained by FrankRamm. |
 | [Better CF tube mounting](CF_tube_mounting/) | A sturdier way to mount a CF X-axis tube. |
 | [Hollow MGN12 Rails](Hollow_MGN12_rails/) | CAD for experimenting with hollowed MGN12 rails. |
 | [Monolith logo](Monolith_logo/) | Monolith logo files for graphics, decals, and cutting. |
